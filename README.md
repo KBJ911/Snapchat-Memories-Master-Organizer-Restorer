@@ -11,7 +11,7 @@
 When you download your data export from Snapchat, you are left with a chaotic archive: 
 * Files have random IDs instead of proper dates.
 * Overlays, stickers, and captions are detached as separate transparent PNGs.
-* GPS locations and exact capture times are trapped inside history files.
+* GPS locations and exact capture times are trapped inside history files. The only one to work on both IOS and Android ✅ at same time.
 
 **Snapchat Memories Master Organizer** automates the entire cleanup:
 * **Re-merges** overlay stickers and captions back onto their original photos and videos.
